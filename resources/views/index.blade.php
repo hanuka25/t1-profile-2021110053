@@ -78,7 +78,7 @@
                                 </div>
                             </div>
 
-                            <h2 class="rit-titl"><i class="fas fa-briefcase"></i> Work Experiance</h2>
+                            <h2 class="rit-titl"><i class="fas fa-briefcase"></i> Work Experience</h2>
                             <div class="work-exp">
                                 <h6>Teller <span>2017-2019</span></h6>
                                 <i>Bank Central Asia</i>
